@@ -27,5 +27,5 @@ def decode_image(encoded_image_path, color_channel='green'):
     hidden_image_pil.show()
 
 # Example usage:
-encoded_image_path = 'output_image_with_hidden_message.png'  # Replace with your encoded image path
+encoded_image_path = 'modified_image.png'  # Replace with your encoded image path
 decode_image(encoded_image_path, color_channel='green') 
